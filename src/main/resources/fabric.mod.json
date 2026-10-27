@@ -8,6 +8,9 @@
   "entrypoints": {
     "main": [
       "dev.melbean627.offhandswordlunge.OffhandSwordLunge"
+    ],
+    "client": [
+      "dev.melbean627.offhandswordlunge.OffhandSwordLungeClient"
     ]
   },
   "depends": {
