@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "offhand_sword_lunge",
+  "version": "${version}",
+  "name": "Offhand Sword Lunge",
+  "description": "Lunge forward when using a sword held in your offhand.",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.melbean627.offhandswordlunge.OffhandSwordLunge"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
